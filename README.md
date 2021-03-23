@@ -37,6 +37,13 @@ or
 yarn dev
 ```
 
+Run Mocked Server
+```bash
+npm run server
+or
+yarn server
+```
+
 Go to:  https://localhost:8080/
 
 app opnend
