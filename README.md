@@ -1,4 +1,4 @@
-<center><h1>Todo List With React  and Next JS </h1></center>
+<center><h1>React Movie List</h1></center>
 
 <p align="center">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="100" />
